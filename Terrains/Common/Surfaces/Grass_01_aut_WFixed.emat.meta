@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{F2835FA04E271B3D}Terrains/Common/Surfaces/Grass_01_aut_WFixed.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,4 @@
+TerrainMaterial : "{B7455636ABA4F383}Terrains/Common/Surfaces/Dirt_01.emat" {
+ SatMapBlend 0
+ SatMapBrightness 0
+}

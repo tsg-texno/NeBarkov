@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{54CBC74073A49A20}Assets/Clutter/Procedural/cp_grass_03_aut_WFixed.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

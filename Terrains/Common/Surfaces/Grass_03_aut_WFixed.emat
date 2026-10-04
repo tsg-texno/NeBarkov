@@ -1,0 +1,5 @@
+TerrainMaterial : "{63577DBAE7BF9DAB}Terrains/Common/Surfaces/Grass_03_aut.emat" {
+ SatMapBlend 0
+ SatMapBrightness 0
+ PlantMat "{54CBC74073A49A20}Assets/Clutter/Procedural/cp_grass_03_aut_WFixed.emat"
+}

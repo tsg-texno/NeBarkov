@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{F9CA19C7AC8642F2}Terrains/Common/Surfaces/Crop_Field_01_WFixed.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

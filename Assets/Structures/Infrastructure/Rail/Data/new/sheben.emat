@@ -1,0 +1,5 @@
+TerrainMaterial {
+ BCRMap "{27BE06A15BE387EA}Assets/_SharedData/Soil/ST_Gravel_02_BCR.edds"
+ NHOMap "{1F66BD338294D574}Assets/_SharedData/Soil/ST_Gravel_02_NMO.edds"
+ MiddleColor 0.314 0.305 0.292 1
+}

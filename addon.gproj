@@ -1,0 +1,8 @@
+GameProject {
+ ID "Tarkov"
+ GUID "6A174B1F20249966"
+ TITLE "Tarkov"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
